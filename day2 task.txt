@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The JavaScript typeof Operator</h2>
+
+<p>The typeof operator returns the type of a variable, object, function or expression.</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 
+  typeof (1) + "<br>" +        
+  typeof (1.1) + "<br>" +
+  typeof ('1.1') + "<br>" +
+  typeof (true) + "<br>" +
+  typeof (null) + "<br>" +
+  typeof (undefined) + "<br>" +
+  typeof ([])+ "<br>" +
+  typeof ({}) + "<br>" +
+  typeof (NaN)+ "<br>" ;
+</script>
+
+</body>
+</html
+
+description of type of operator in javascript
+
+
+a) It is type of operator is number
+b) It is type of operator is also number
+c) It is type of operator is string because of put in the number inside of single ' 'symbol.
+d) It is type of boolean operator cause of it mention true or false
+f) It is type of object operator.
+g) It is type of undefined operator
+h) It is type of object operator.
+i) It is type of object operator.
+j) It is type of operator is number.
